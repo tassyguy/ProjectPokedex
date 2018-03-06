@@ -1,0 +1,49 @@
+{
+  "index_number": 336,
+  "pp": 40,
+  "max_pp": 64,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Grondement",
+    "de": "Jauler",
+    "gr": "Ουρλιατό",
+    "it": "Gridodilotta",
+    "en": "Howl"
+  },
+  "descriptions": {
+    "en": "Howls to raise the spirit and boosts Attack.",
+    "de": "Verwendet man Jauler als Z-Attacke, erhöht sich der Angriff des Anwenders um eine Stufe."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

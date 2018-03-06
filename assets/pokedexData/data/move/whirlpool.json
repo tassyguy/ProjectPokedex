@@ -1,0 +1,50 @@
+{
+  "index_number": 250,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 35,
+  "accuracy": 85,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Siphon",
+    "de": "Whirlpool",
+    "gr": "Δίνη",
+    "it": "Mulinello",
+    "pl": "Wir Wodny",
+    "en": "Whirlpool"
+  },
+  "descriptions": {
+    "en": "Lasts two to five turns. Foe becomes trapped in a vortex, making it impossible to switch.",
+    "de": "Richtet über mehrere Kampfrunden Passivschaden am Gegner an. Wird der Anwender der Attacke ausgetauscht, lässt der Effekt von Whirlpool sofort nach. Verhindert Flucht des Gegners. Dieser Effekt kann mit Angsthase, Turbodreher, Rauchball oder Wechselhülle umgangen werden."
+  },
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

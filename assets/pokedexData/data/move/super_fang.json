@@ -1,0 +1,51 @@
+{
+  "index_number": 162,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 90,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Superhugtand",
+    "fr": "Croc Fatal",
+    "de": "Superzahn",
+    "gr": "Θανατηφόρα Δόντια",
+    "it": "Superzanna",
+    "pl": "Super Kieł",
+    "en": "Super Fang"
+  },
+  "descriptions": {
+    "en": "If it hits, this attack cuts the target's HP in half. Learned by Pokémon with developed fangs.",
+    "de": "Die gegnerischen vorhandenen KP werden halbiert. Sinnvoll einzusetzen, wenn Gegner sehr viele KP hat (Relaxo, Chaneira, ...). Kann man mit der Attacke Lake kombinieren."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "index_number": 283,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 0,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Effort",
+    "de": "Notsituation",
+    "gr": "Προσπάθεια",
+    "it": "Rimonta",
+    "en": "Endeavor"
+  },
+  "descriptions": {
+    "en": "Gains power if the user’s HP is lower than the foe’s HP.",
+    "de": "Nach dem Einsatz dieser Attacke besitzt der Gegner gleich viele KP wie dein Pokémon vor dem Einsatz. Etwas unterschiedlich zu Leidteiler, jedoch taktisch brauchbar. Allerdings ist es nötig, dass dein Pokémon einen höhen Initiative-Wert hat, ansonsten hat diese Attacke wenig Sinn. Man kann diese Attacke mit Rattfratz Lvl.1 sehr gu ausnutzen: Rattfratz trägt das Item Fokusgurt, und kann die Attacken Notsituation und Ruchzuckhieb. Dank des Fokusgurts überlebt es den ersten Angriff des Gegners und durch die Attacke Notsituation besitzt der Gegner nur einen KP. Ruckzuckhieb besiegt ihn dann."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

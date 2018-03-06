@@ -1,0 +1,51 @@
+{
+  "index_number": 136,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 130,
+  "accuracy": 90,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Højt Hopspark",
+    "fr": "Pied Voltige",
+    "de": "Turmkick",
+    "gr": "Υψομετρικό Λάκτισμα",
+    "it": "Calcinvolo",
+    "pl": "Saltocios",
+    "en": "High Jump Kick"
+  },
+  "descriptions": {
+    "en": "Stronger than a Jump Kick. If it misses, the attacker sustains 1/8 damage it should have caused.",
+    "de": "In den Generationen 1-3 beträgt die Stärke 85."
+  },
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

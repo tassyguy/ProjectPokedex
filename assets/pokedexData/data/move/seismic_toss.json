@@ -1,0 +1,52 @@
+{
+  "index_number": 69,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "cz": "Seismický vrh",
+    "dk": "Seismisk Kast",
+    "fr": "Frappe Atlas",
+    "de": "Geowurf",
+    "gr": "Σεισμική Εκτίναξη",
+    "it": "Movim. Sismico",
+    "pl": "Wtrząs Sejsmiczny",
+    "en": "Seismic Toss"
+  },
+  "descriptions": {
+    "en": "A Fighting-type attack. Throws the target with enough force to flip the world upside down.",
+    "de": "Verursacht Schaden entsprechend des Levels des eigenen Pokémon. Alle anderen Fähigkeiten (gegn. und eigenes Pokémon) sind egal."
+  },
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

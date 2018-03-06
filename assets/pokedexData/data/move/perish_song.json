@@ -1,0 +1,50 @@
+{
+  "index_number": 195,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "everyone",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Requiem",
+    "de": "Abgesang",
+    "gr": "Κύκνειο Άσμα",
+    "it": "Ultimocanto",
+    "pl": "Requiem",
+    "en": "Perish Song"
+  },
+  "descriptions": {
+    "en": "A malevolent melody that causes both the user and the opponent to faint in three turns.",
+    "de": "Beide Pokémon werden nach drei Kampfrunden besiegt, sofern sie nicht ausgewechselt werden. Pokémon mit der Fähigkeit Lärmschutz sind immun gegen diese Attacke. Dagegen bewahrt ein Fokusgurt oder Magieschild nicht davor besiegt zu werden."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "index_number": 506,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 65,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Châtiment",
+    "de": "Bürde",
+    "it": "Sciagura",
+    "pl": "Urok",
+    "en": "Hex"
+  },
+  "descriptions": {
+    "en": "This relentless attack does massive damage to a target affected by status problems.",
+    "de": "Der angerichtete Schaden wird verdoppelt, wenn das Ziel unter einer primären Statusveränderung wie Paralyse leidet."
+  },
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    }
+  ]
+}

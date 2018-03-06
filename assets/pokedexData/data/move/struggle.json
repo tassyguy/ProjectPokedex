@@ -1,0 +1,48 @@
+{
+  "index_number": 165,
+  "pp": 1,
+  "max_pp": 1,
+  "power": 50,
+  "accuracy": 0,
+  "category": "physical",
+  "priority": 0,
+  "target": "target_foe",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "de": "Verzweifler",
+    "gr": "Αγώνας",
+    "it": "Scontro",
+    "en": "Struggle"
+  },
+  "descriptions": {
+    "en": "Used only if the user runs totally out of PP. The user is hit with 1/4 of the damage it inflicts.",
+    "de": "Wenn die AP aller verfügbaren Attacken des Pokémon auf 0 sind, setzt der Anwender Verzweifler ein. Diese Attacke fügt dem Gegner nur geringen Schaden zu, das anwendende Pokémon erhält jedoch auch einen Rückstoßschaden in Höhe von 25% seiner maximalen KP. Verzweifler wird so lange eingesetzt, bis die AP des Pokémon wieder aufgefrischt werden. Die AP von Verzweifler werden in jeder Runde erneuert Besitzt ein Pokémon ein Wahl-Item wie Wahlschal, Wahlband etc. und gerät unter den Effekt von Folterknecht, so setzt es jede zweite Runde Verzweifler ein."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

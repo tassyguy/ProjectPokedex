@@ -1,0 +1,51 @@
+{
+  "index_number": 40,
+  "pp": 35,
+  "max_pp": 56,
+  "power": 15,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Giftstik",
+    "fr": "Dard-Venin",
+    "de": "Giftstachel",
+    "gr": "Δηλητηριώδες Κεντρί",
+    "it": "Velenospina",
+    "pl": "Trujące Żądło",
+    "en": "Poison Sting"
+  },
+  "descriptions": {
+    "en": "A Poison-type attack. Has a one-in-five chance of leaving the target with the lingering effects of poison.",
+    "de": "Schädigt den Gegner, 30% Chance diesen zusätzlich zu vergiften."
+  },
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "index_number": 476,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 2,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Poudre Fureur",
+    "de": "Wutpulver",
+    "it": "Polverabbia",
+    "en": "Rage Powder"
+  },
+  "descriptions": {
+    "en": "The user scatters a cloud of irritating powder to draw attention to itself. Opponents aim only at the user.",
+    "de": "In Mehrfachkämpfen greifen Gegner nur den Anwender bis zum Ende der Runde an und so werden Mitstreiter geschützt. Attacken, welche mehrere Pokémon treffen, richten dennoch nicht nur Schaden beim Anwender an. Attacken der Typen und werden auch dann auf den Anwender von Wutpulver umgelenkt, wenn sich Pokémon mit Blitzfänger oder Sturmsog auf dem Feld befinden."
+  },
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "index_number": 123,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 30,
+  "accuracy": 70,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Smog",
+    "fr": "Puredpois",
+    "de": "Smog",
+    "gr": "Αιθαλομίχλη",
+    "it": "Smog",
+    "pl": "Smog",
+    "en": "Smog"
+  },
+  "descriptions": {
+    "en": "Smog is spewed as a cloud. Has a fifty-fifty chance of poisoning the target.",
+    "de": "Schädigt, 40% Chance den Gegner zu vergiften, macht aber viel zu wenig Schaden, daher sinnlos."
+  },
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

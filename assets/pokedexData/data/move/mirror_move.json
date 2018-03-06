@@ -1,0 +1,51 @@
+{
+  "index_number": 119,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Spejltræk",
+    "fr": "Mimique",
+    "de": "Spiegeltrick",
+    "gr": "Ψιττακισμός",
+    "it": "Speculmossa",
+    "pl": "Lustrzane Odbicie",
+    "en": "Mirror Move"
+  },
+  "descriptions": {
+    "en": "A move that strikes back with the opponent's last move. This move comes after the enemy's move.",
+    "de": "Setzt die selbe Attacke ein, die das gegnerische Pokemon zuvor eingesetzt hat, aber nur, wenn dessen Angriff nicht fehlgeschlagen ist."
+  },
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

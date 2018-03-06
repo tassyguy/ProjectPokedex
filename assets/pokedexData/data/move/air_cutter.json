@@ -1,0 +1,51 @@
+{
+  "index_number": 314,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 60,
+  "accuracy": 95,
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 1,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Luftskærer",
+    "fr": "Tranch'Air",
+    "de": "Windschnitt",
+    "gr": "Αεροκόπτης",
+    "it": "Aerasoio",
+    "pl": "Powietrzny Nóż",
+    "en": "Air Cutter"
+  },
+  "descriptions": {
+    "en": "Hacks with razorlike wind. High critical-hit ratio.",
+    "de": "Schädigt den Gegner und hat eine Volltrefferquote von 25%. Im Doppelkampf werden beide Gegner geschädigt. Allerdings teilen sie sich den Schaden auf und ein einzelnes Pokémon erleidet nur den halben Schaden. In Dreierkämpfen werden nur die gegenüberstehenden gegnerischen Pokémon getroffen. Bei einer Massbegegnung werden alle Gegner getroffen."
+  },
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

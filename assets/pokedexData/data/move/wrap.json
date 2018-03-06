@@ -1,0 +1,51 @@
+{
+  "index_number": 35,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 15,
+  "accuracy": 90,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Vikle",
+    "fr": "Ligotage",
+    "de": "Wickel",
+    "gr": "Τύλιγμα",
+    "it": "Avvolgibotta",
+    "pl": "Ściskanie",
+    "en": "Wrap"
+  },
+  "descriptions": {
+    "en": "Traps and squeezes the target over two to five turns. The target cannot move while under attack.",
+    "de": "Richtet über mehrere Kampfrunden Passivschaden am Gegner an. Wird der Anwender der Attacke ausgetauscht, lässt der Effekt von Wickel sofort nach. Verhindert Flucht des Gegners. Dieser Effekt kann mit Angsthase, Turbodreher, Rauchball oder Wechselhülle umgangen werden."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

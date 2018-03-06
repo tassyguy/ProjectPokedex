@@ -1,0 +1,37 @@
+{
+  "index_number": 521,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 70,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Change Éclair",
+    "de": "Voltwechsel",
+    "it": "Invertivolt",
+    "pl": "Elektrozmiana",
+    "en": "Volt Switch"
+  },
+  "descriptions": {
+    "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
+    "de": "Voltwechsel fügt dem Ziel Schaden zu und der Anwender wird ausgetauscht. Der Anwender wird nicht ausgewechselt, wenn die Attacke fehl schlägt, der Anwender das einzige kampffähige Pokémon im Team ist, die Fähigkeit des Gegners Schaden durch Voltwechsel verhindert, Voltwechsel den Kampf beendet oder das Ziel vom Typ ist."
+  },
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

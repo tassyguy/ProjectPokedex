@@ -1,0 +1,49 @@
+{
+  "index_number": 251,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Baston",
+    "de": "Prügler",
+    "gr": "Ξυλοδαρμός",
+    "it": "Picchiaduro",
+    "en": "Beat Up"
+  },
+  "descriptions": {
+    "en": "A Dark-type attack. The user's fellow party Pokémon appear to pummel the target.",
+    "de": "Attackiert den Gegner mehrmals entsprechend der Anzahl an gesunden (nicht besiegt + keine Statusveränderung) Pokémon im Team; die Stärke der einzelnen Angriffe hängt von den Base-Angriffs-Werten sowie EVs, DVs, Level und Wesen der Teampokémon ab."
+  },
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

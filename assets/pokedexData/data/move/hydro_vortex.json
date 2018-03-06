@@ -1,0 +1,32 @@
+{
+  "names": {
+    "en": "Hydro Vortex",
+    "fr": "Super Tourbillon Abyssal",
+    "de": "Super-Wassertornado",
+    "it": "Idrovortice Abissale",
+    "es": "Hidrovórtice Abisal"
+  },
+  "index_number": 642,
+  "descriptions": {
+    "en": "Hydro Vortex inflicts damage. Its power and whether it is a special or physical move depends on the move it is based on.",
+    "de": "Super-Wassertornado ist eine Z-Attacke aus der 7. Generation. Sie kann von jedem Pokémon erlernt werden, das eine Wasser-Attacke beherrscht und den Aquium Z-Kristall trägt."
+  },
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "type": "Water",
+  "category": "varies",
+  "pp": 0,
+  "max_pp": 0,
+  "power": 0,
+  "accuracy": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0,
+  "contests": [
+
+  ]
+}

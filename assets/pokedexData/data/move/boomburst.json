@@ -1,0 +1,49 @@
+{
+  "index_number": 586,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 140,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Bang Sonique",
+    "de": "Überschallknall",
+    "it": "Ondaboato",
+    "pl": "Boom Wybuch",
+    "en": "Boomburst"
+  },
+  "descriptions": {
+    "en": "The user attacks everything around it with the destructive power of a terrible, explosive sound.",
+    "de": "Schadet allen Pokémon, die am Kampf teilnehmen, außer dem Anwender. Pokémon mit der Fähigkeit Lärmschutz können von dieser Attake nicht getroffen werden."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Tough"
+    }
+  ]
+}

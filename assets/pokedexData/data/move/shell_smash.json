@@ -1,0 +1,49 @@
+{
+  "index_number": 504,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Exuviation",
+    "de": "Hausbruch",
+    "it": "Gettaguscio",
+    "pl": "Cios Muszli",
+    "en": "Shell Smash"
+  },
+  "descriptions": {
+    "en": "The user breaks its shell, lowering its Defense and Sp. Def stats but sharply raising Attack, Sp. Atk, and Speed stats.",
+    "de": "Der Anwender senkt seine Verteidigung sowie Spezialverteidigung um eine Stufe und erhöht zeitgleich seinen Angriff, Spezial-Angriff, als auch Initiative um jeweils zwei Stufen."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

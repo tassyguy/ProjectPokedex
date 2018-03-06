@@ -1,0 +1,48 @@
+{
+  "index_number": 554,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 140,
+  "accuracy": 90,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Feu Glacé",
+    "de": "Frosthauch",
+    "it": "Vampagelida",
+    "en": "Ice Burn"
+  },
+  "descriptions": {
+    "en": "On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn.",
+    "de": "Die Attacke wird über zwei Runden ausgeführt, verursacht Schaden und besitzt eine Wahrscheinlichkeit von 30% das Ziel zu verbrennen. Trägt der Anwender ein Energiekraut wird in der Runde angegriffen in der Frosthauch ausgewählt wurde."
+  },
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

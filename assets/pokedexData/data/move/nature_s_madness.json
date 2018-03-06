@@ -1,0 +1,32 @@
+{
+  "names": {
+    "en": "Nature's Madness",
+    "fr": "Ire de la Nature",
+    "de": "Naturzorn",
+    "it": "Ira della Natura",
+    "es": "Furia Natural"
+  },
+  "index_number": 717,
+  "descriptions": {
+    "en": "Nature's Madness deals damage equal to 50% of the opponent's remaining HP.",
+    "de": "Naturzorn ist die Spezialattacke von Alolas Schutzpatronen. Sie halbiert die KP des Zieles und hat somit den gleichen Effekt wie Superzahn. Die spezifische Z-Attacke der Kapus, \"Alolas Wächter\", stellt eine verstärkt Version von Naturzorn dar."
+  },
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "type": "Fairy",
+  "category": "special",
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 90,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "priority": 0,
+  "contests": [
+
+  ]
+}

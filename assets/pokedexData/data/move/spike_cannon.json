@@ -1,0 +1,50 @@
+{
+  "index_number": 131,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 20,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Piggekanon",
+    "fr": "Picanon",
+    "de": "Dornkanone",
+    "gr": "Κανόνι Ακίδων",
+    "it": "Sparalance",
+    "en": "Spike Cannon"
+  },
+  "descriptions": {
+    "en": "A physical attack consisting of two to five consecutive hits. Highly accurate.",
+    "de": "Greift 2-5 mal in einer Kampfrunde an."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

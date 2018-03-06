@@ -1,0 +1,49 @@
+{
+  "index_number": 286,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "all_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Possessif",
+    "de": "Begrenzer",
+    "gr": "Επισφράγιση",
+    "it": "Esclusiva",
+    "en": "Imprison"
+  },
+  "descriptions": {
+    "en": "Prevents foes from using moves known by the user.",
+    "de": "Hindert das gesamte Team des Gegners daran, Attacken zu benutzen, die der Anwender beherrscht, bis der Anwender besiegt oder ausgetauscht wird."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

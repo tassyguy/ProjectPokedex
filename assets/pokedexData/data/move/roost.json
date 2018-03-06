@@ -1,0 +1,49 @@
+{
+  "index_number": 355,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Atterrissage",
+    "de": "Ruheort",
+    "gr": "Κούρνιασμα",
+    "it": "Trespolo",
+    "en": "Roost"
+  },
+  "descriptions": {
+    "en": "The user lands and rests its body. It restores the user’s HP by up to half of its max HP.*The user lands and rests its body. It restores the user’s HP by up to half of its top HP.*",
+    "de": "Heilt das Pokémon. Bis zu 50% der KP werden wiederhergestellt. Anwender verliert bis zum Ende der Runde seine Flug-Fähigkeit. So können Flug-Pokémon auch von Bodenattacken getroffen werden."
+  },
+  "type": "Flying",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

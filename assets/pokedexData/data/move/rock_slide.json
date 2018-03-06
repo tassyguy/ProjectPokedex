@@ -1,0 +1,50 @@
+{
+  "index_number": 157,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 75,
+  "accuracy": 90,
+  "category": "physical",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Éboulement",
+    "de": "Steinhagel",
+    "gr": "Κατολίσθιση",
+    "it": "Frana",
+    "pl": "Kamienny Ślizg",
+    "en": "Rock Slide"
+  },
+  "descriptions": {
+    "en": "A Rock-type attack that hits the target with an avalanche of rocks and boulders.",
+    "de": "Schädigt den Gegner, 30% Chance (seit der 2. Generation) den Gegner zurückschrecken zu lassen. Das Ziel schreckt nicht zurück, wenn es sich hinter einem Delegator befindet oder Konzentrator besitzt. Auch fliegende Gegner werden getroffen. In Mehrfachkämpfen trifft diese Attacke alle gegnerischen Pokémon."
+  },
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Tough"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "index_number": 201,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "everyone",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Tempête de Sable",
+    "de": "Sandsturm",
+    "gr": "Αμμοθύελλα",
+    "it": "Terrempesta",
+    "pl": "Burza Piaskowa",
+    "en": "Sandstorm"
+  },
+  "descriptions": {
+    "en": "An attack that creates a sandstorm. The effect causes damage to both combatants.",
+    "de": "Schädigt gegnerisches und eigenes Pokémon über mehrere Runden, ohne Effekt gegen Gestein-, Stahl- und Bodenpokémon. In der 2. Generation betrug der Schaden 1/8 der maximalen KP, seit der 3. Generation werden am Ende einer Runde 1/16 der maximalen KP abgezogen."
+  },
+  "type": "Rock",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
+}

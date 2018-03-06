@@ -1,0 +1,48 @@
+{
+  "index_number": 573,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 70,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Lyophilization",
+    "de": "Gefriertrockner",
+    "it": "Liofilizzazione",
+    "en": "Freeze-Dry"
+  },
+  "descriptions": {
+    "en": "The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.",
+    "de": "Verursacht Schaden und mit einer Wahrscheinlichkeit von 10% friert das Ziel ein. Zusätzlich ist diese Attacke sehr effektiv gegenüber Pokémon des Typs ."
+  },
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

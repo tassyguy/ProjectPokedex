@@ -1,6 +1,6 @@
-# projectpokedex
+# Dex++
 
-A new Flutter project.
+A new PokéDex app written using the Flutter SDK.
 
 ## Getting Started
 

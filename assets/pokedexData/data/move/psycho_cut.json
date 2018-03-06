@@ -1,0 +1,51 @@
+{
+  "index_number": 427,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 70,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 1,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Coupe Psycho",
+    "de": "Psychoklinge",
+    "gr": "Ψυχοδρέπανο",
+    "it": "Psicotaglio",
+    "pl": "Psycho cięcie",
+    "tr": "Psiko Kesici",
+    "en": "Psycho Cut"
+  },
+  "descriptions": {
+    "en": "The user tears at the foe with blades formed by psychic power. It has a high critical-hit ratio.",
+    "de": "Erhöhte Chance auf einen kritischen Treffer."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

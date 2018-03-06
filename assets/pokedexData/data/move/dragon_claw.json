@@ -1,0 +1,51 @@
+{
+  "index_number": 337,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 80,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Dracogriffe",
+    "de": "Drachenklaue",
+    "gr": "Νύχι Δράκου",
+    "it": "Dragartigli",
+    "pl": "Pazur Smoka",
+    "tr": "Ejderha Pençesi",
+    "en": "Dragon Claw"
+  },
+  "descriptions": {
+    "en": "Slashes the foe with sharp claws.*Hooks and slashes the foe with long, sharp claws.*",
+    "de": "Richtet Schaden an."
+  },
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

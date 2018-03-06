@@ -1,0 +1,52 @@
+{
+  "index_number": 68,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": -5,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "cz": "Protiútok",
+    "dk": "Parade",
+    "fr": "Riposte",
+    "de": "Konter",
+    "gr": "Αντίκρουση",
+    "it": "Contrattacco",
+    "pl": "Liczydło",
+    "en": "Counter"
+  },
+  "descriptions": {
+    "en": "A retaliation move that back double the damage of a physical attack. Highly accurate.",
+    "de": "Setzt der Gegner eine physische Attacke ein, so wird diese mit doppeltem Schaden gekontert. Attackenpriorität -5, daher fast immer langsamer als der Gegner. Bei Attacken, die mehrere Treffer landen wie z.B Kugelsaat, Kehrschelle und Duplexhieb wird nur der letzte Treffer gekontert."
+  },
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

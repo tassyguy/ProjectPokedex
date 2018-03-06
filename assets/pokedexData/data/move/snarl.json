@@ -1,0 +1,36 @@
+{
+  "index_number": 555,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 55,
+  "accuracy": 95,
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Aboiement",
+    "de": "Standpauke",
+    "it": "Urlorabbia",
+    "en": "Snarl"
+  },
+  "descriptions": {
+    "en": "The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.",
+    "de": "Standpauke verursacht Schaden und verringert den Spezial-Angriff des Zieles um eine Stufe (auf ca. 66,7% des Ausgangsertes). Trifft in Mehrfachkämpfen nur die unmittelbar in der Nähe befindlichen Pokémon."
+  },
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

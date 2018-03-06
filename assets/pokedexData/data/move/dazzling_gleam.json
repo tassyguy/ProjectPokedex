@@ -1,0 +1,48 @@
+{
+  "index_number": 605,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 80,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Éclat Magique",
+    "de": "Zauberschein",
+    "it": "Magibrillio",
+    "en": "Dazzling Gleam"
+  },
+  "descriptions": {
+    "en": "The user damages opposing Pokémon by emitting a powerful flash.",
+    "de": "Im Doppelkampf trifft die Attacke Zauberschein beide gegnerischen Pokémon."
+  },
+  "type": "Fairy",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

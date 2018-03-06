@@ -1,0 +1,50 @@
+{
+  "index_number": 383,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Photocopie",
+    "de": "Imitator",
+    "gr": "Αντιγραφή",
+    "it": "Copione",
+    "pl": "Imitacja",
+    "en": "Copycat"
+  },
+  "descriptions": {
+    "en": "The user mimics the move used immediately before it. The move fails if no other move has been used yet.",
+    "de": "Es wird die zuletzt eingesetzte Attacke angewendet. Auch Attacken des Anwenders können dadurch kopiert werden."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

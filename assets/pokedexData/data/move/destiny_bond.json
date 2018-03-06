@@ -1,0 +1,49 @@
+{
+  "index_number": 194,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Prélèvem. Destin",
+    "de": "Abgangsbund",
+    "gr": "Κοινό Πεπρωμένο",
+    "it": "Destinobbligato",
+    "en": "Destiny Bond"
+  },
+  "descriptions": {
+    "en": "A move that causes the opponent to faint if the user faints after using this move.",
+    "de": "Wenn dein Pokémon durch einen direkten Treffer besiegt wird, wird auch das gegnerische Pokémon kampfunfähig. Attacken wie Egelsamen und Sandsturm zählen nicht als direkte Treffer! Direkte Treffer richten immer in der Runde des Einsatzes sofort einen Schaden an, und nicht erst später."
+  },
+  "type": "Ghost",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

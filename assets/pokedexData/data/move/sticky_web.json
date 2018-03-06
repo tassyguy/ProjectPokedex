@@ -1,0 +1,37 @@
+{
+  "index_number": 564,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "all_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Toile Gluante",
+    "de": "Klebenetz",
+    "it": "Rete Vischiosa",
+    "pl": "Kleista sieć",
+    "en": "Sticky Web"
+  },
+  "descriptions": {
+    "en": "The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle.",
+    "de": "Legt ein klebriges Netz aus, welches die Initiative von eingewechselten Pokémon um eine Stufe (auf ca. 66,7% des Ausgangswertes) senkt. Die Attacke ist wirkungslos gegenüber Pokémon des Typs , mit der Fähigkeit Schwebe bzw. Neutraltorso oder wenn das Item Luftballon getragen wird."
+  },
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
+}

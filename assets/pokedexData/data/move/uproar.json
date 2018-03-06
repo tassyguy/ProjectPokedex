@@ -1,0 +1,49 @@
+{
+  "index_number": 253,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 90,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target_foe",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Brouhaha",
+    "de": "Aufruhr",
+    "gr": "Κραυγή",
+    "it": "Baraonda",
+    "en": "Uproar"
+  },
+  "descriptions": {
+    "en": "Causes an uproar for 2 to 5 turns and prevents sleep.",
+    "de": "Richtet Schaden an. Pokémon werden aufgeweckt und kein Pokémon ist in der Lage einzuschlafen. Schälgt fehl, wenn die Attacke gegen Pokémon des Typen oder mit der Fähigkeit Lärmschutz, eingesetzt wird."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cute"
+    }
+  ]
+}

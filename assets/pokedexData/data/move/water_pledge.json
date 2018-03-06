@@ -1,0 +1,36 @@
+{
+  "index_number": 518,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 80,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Aire d'Eau",
+    "de": "Wassersäulen",
+    "it": "Acquapatto",
+    "en": "Water Pledge"
+  },
+  "descriptions": {
+    "en": "A column of water strikes the target. When combined with its fire equivalent, the damage increases and a rainbow appears.",
+    "de": "Wassersäulen verursacht Schaden, welcher verdoppelt wird und noch einen Zusatzeffekt erhält, wenn in einem Mehrfachkampf zuvor Feuersäulen oder Pflanzsäulen eingesetzt wurde. Die Attacke, welche als zweites ausgeführt wird, erhält die Boni durch die Kombination."
+  },
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

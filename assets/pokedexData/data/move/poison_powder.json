@@ -1,0 +1,51 @@
+{
+  "index_number": 77,
+  "pp": 35,
+  "max_pp": 56,
+  "power": 0,
+  "accuracy": 75,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Giftpulver",
+    "fr": "Poudre Toxik",
+    "de": "Giftpuder",
+    "gr": "Τοξική Σκόνη",
+    "it": "Velenpolvere",
+    "pl": "Trujący Proszek (DP168)Trujące Zarodniki (BW032)",
+    "en": "Poison Powder"
+  },
+  "descriptions": {
+    "en": "A technique that poisons the target. If poisoned, the victim loses HP steadily.",
+    "de": "Vergiftet bei Erfolg den Gegner. Da Toxin eine höhere Trefferquote hat, von sehr vielen Pokémon erlernt werden kann und zudem den Gegner schwer vergiftet, wird Giftpuder so gut wie nie verwendet."
+  },
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

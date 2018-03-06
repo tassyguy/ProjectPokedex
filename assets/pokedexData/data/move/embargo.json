@@ -1,0 +1,49 @@
+{
+  "index_number": 373,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 100,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Embargo",
+    "de": "Itemsperre",
+    "gr": "Απαγόρευση",
+    "it": "Divieto",
+    "en": "Embargo"
+  },
+  "descriptions": {
+    "en": "It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.",
+    "de": "Das getroffene Pokémon kann keine Items benutzen und der Trainer des Pokémon kann keine Items auf dieses Pokémon anwenden für 5 Runden. Unter dem Einfluss von Itemsperre kann Katapult nicht eingesetzt werden."
+  },
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

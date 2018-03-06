@@ -1,0 +1,51 @@
+{
+  "index_number": 248,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 120,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "cz": "Budoucnost",
+    "fr": "Prescience",
+    "de": "Seher",
+    "gr": "Ενόραση",
+    "it": "Divinazione",
+    "pl": "Wizja Przyszłości",
+    "en": "Future Sight"
+  },
+  "descriptions": {
+    "en": "A special Psychic-type attack. It strikes the target two turns after it is used.",
+    "de": "Der Gegner wird 2 Runden nach dem Angriff attackiert. Bis zur Ausführung von Seher kann diese Attacke nicht erneut verwendet werden. Funktioniert auch nach gegnerischem oder eigenem Pokémontausch."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

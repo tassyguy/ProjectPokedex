@@ -1,0 +1,50 @@
+{
+  "index_number": 364,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 30,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 2,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Ruse",
+    "de": "Offenlegung",
+    "gr": "Προσποίηση",
+    "it": "Fintoattacco",
+    "pl": "Symulacja",
+    "en": "Feint"
+  },
+  "descriptions": {
+    "en": "An attack that hits a foe using Protect or Detect. It also lifts the effects of those moves.",
+    "de": "Offenlegung umgeht Schutzattacken wie Schutzschild und Scanner. Bis zur 4. Generation fügt die Attacke nur dann Schaden zu, wenn der Gegner sich mit einer dieser Attacken schützt; in Spielen der 5. und 6. Generation wurde der Effekt der Attacke jedoch verändert, sodass sie auch normalen Zielen schadet."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

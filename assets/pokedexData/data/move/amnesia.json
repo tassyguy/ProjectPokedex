@@ -1,0 +1,51 @@
+{
+  "index_number": 133,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Hukommelsestab",
+    "fr": "Amnésie",
+    "de": "Amnesie",
+    "gr": "Αμνησία",
+    "it": "Amnesia",
+    "pl": "Amnezja",
+    "en": "Amnesia"
+  },
+  "descriptions": {
+    "en": "Sharply raises the user's Special stat. Also increases protection against special attacks.",
+    "de": "Erhöht die Spezial-Verteidigung des eigenen Pokémon um zwei Stufen (+100%), bis das Pokémon besiegt oder ausgewechselt wird."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "index_number": 503,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 80,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Ébullition",
+    "de": "Siedewasser",
+    "it": "Idrovampata",
+    "pl": "Wrzątek",
+    "en": "Scald"
+  },
+  "descriptions": {
+    "en": "The user shoots boiling hot water at its target. It may also leave the target with a burn.",
+    "de": "Es wird Schaden verursacht und es besteht eine Chance von 30% das Ziel zu verbrennen. Unabhängig davon ob die Attacke das anvisierte Ziel trifft, wird der Anwender aufgetaut, falls er eingefroren ist."
+  },
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

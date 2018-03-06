@@ -1,0 +1,36 @@
+{
+  "index_number": 596,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 4,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Pico-Défense",
+    "de": "Schutzstacheln",
+    "it": "Agodifesa",
+    "en": "Spiky Shield"
+  },
+  "descriptions": {
+    "en": "In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",
+    "de": "Diese Attacke schützt den Anwender vor sämtlichem Schaden von Attacken und deren Effekten, die gegen den Anwender in dieser Runde eingesetzt werden. Vor Wettereffekten oder bereits bestehenden Statusproblemen schützt diese Attacke jedoch nicht, da diese nicht während, sondern zwischen den Runden aktiv werden. Sollte der Anwender von einer physischen Attacke berührt werden, erhält der Angreifer stattdessen Schaden in Höhe 1/8 seiner maximalen KP und das verteidigende Pokémon bleibt unversehrt. Mit dem Item Beulenhelm oder der Fähigkeit Rauhaut lässt sich diese Attacke nicht kombinieren. Nach jedem erfolgreichen Einsatz, nimmt die Wahrscheinlichkeit um 50% ab, diese Attacke in der der nächsten Runde erneut ausführen zu können."
+  },
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

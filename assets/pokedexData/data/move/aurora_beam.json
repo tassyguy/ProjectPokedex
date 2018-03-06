@@ -1,0 +1,51 @@
+{
+  "index_number": 62,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 65,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Polarlys",
+    "fr": "Onde Boréale",
+    "de": "Aurorastrahl",
+    "gr": "Ακτίνα Χαραυγής",
+    "it": "Raggiaurora",
+    "pl": "Promień Jutrzenki (Master Quest)Promień Aurory (Black & White)",
+    "en": "Aurora Beam"
+  },
+  "descriptions": {
+    "en": "An Ice-type attack. Has a one-in-three chance of reducing the target's Attack power.",
+    "de": "Verletzt das gegnerische Pokémon, zusätzliche 10% Chance den gegnerischen Angriff um eine Stufe (auf ca. 66,7% des Ausgangswertes) zu senken. Diese Attacke ist deutlich schlechter als Eisstrahl, daher sollte sie eher nicht verwendet werden."
+  },
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Beautiful"
+    }
+  ]
+}

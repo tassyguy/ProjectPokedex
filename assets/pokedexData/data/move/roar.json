@@ -1,0 +1,52 @@
+{
+  "index_number": 46,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": -6,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Brøl",
+    "fr": "Hurlement",
+    "de": "Brüller",
+    "gr": "Βρυχηθμός",
+    "it": "Boato",
+    "pl": "Ryk",
+    "tr": "Kükreme",
+    "en": "Roar"
+  },
+  "descriptions": {
+    "en": "A terrifying roar that drives wild Pokémon away. It is useful only in the wild.",
+    "de": "Zwingt wilde Pokemon zur Flucht. In Trainerkämpfen eine der wichtigsten Attacken. Das gegnerische Pokemon wird zum Wechsel gezwungen und ein anderes Teammitglied des Gegners wird zufällig auf das Feld gerufen. Wenn der Gegner nur noch ein Pokemon hat, schlägt die Attacke fehl."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

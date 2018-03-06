@@ -1,0 +1,50 @@
+{
+  "index_number": 270,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 5,
+  "target": "adjacent_ally",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Coup d'Main",
+    "de": "Rechte Hand",
+    "gr": "Χέρι Βοηθείας",
+    "it": "Altruismo",
+    "pl": "Pomocna Dłoń",
+    "en": "Helping Hand"
+  },
+  "descriptions": {
+    "en": "Boosts the power of the recipient’s moves.",
+    "de": "Erhöht den Angriff/Spezialangriff des Partners im Doppelkampf um eine Stufe (50%), im Einzelkampf sinnlos."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "index_number": 255,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Relâche",
+    "de": "Entfessler",
+    "gr": "Πτυσμός",
+    "it": "Sfoghenergia",
+    "pl": "Wyplucie",
+    "en": "Spit Up"
+  },
+  "descriptions": {
+    "en": "Releases stockpiled power (the more the better).",
+    "de": "Mit der Attacke Horter muss Energie gesammelt werden. Der Schaden berechnet sich aus 100 * (Anzahl der Einsätze von Horter). Kann verheerenden Schaden anrichten."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

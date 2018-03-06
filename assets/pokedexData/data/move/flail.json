@@ -1,0 +1,50 @@
+{
+  "index_number": 175,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Fléau",
+    "de": "Dreschflegel",
+    "gr": "Μαστίγωμα",
+    "it": "Flagello",
+    "pl": "Bicz",
+    "en": "Flail"
+  },
+  "descriptions": {
+    "en": "An attack that increases in power if the user's HP is low. It could turn the tide in battle.",
+    "de": "Je weniger KP das ausführende Pokémon hat, desto mehr Schaden richtet diese Attacke an. Dreschflegel kann nie ein kritischer Treffer (CH) sein und unterliegt im Gegensatz zu den meisten anderen Attacken keinen zufallsbedingten Schwankungen. Die Schadenspunkte dieser Attacke sind nicht indirekt proportional zu den KP, sondern gestaffelt:"
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

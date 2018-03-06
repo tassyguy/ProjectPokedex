@@ -1,0 +1,50 @@
+{
+  "index_number": 381,
+  "pp": 30,
+  "max_pp": 48,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user_and_allies",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Air Veinard",
+    "de": "Beschwörung",
+    "gr": "Ψαλμός Καλοτυχίας",
+    "it": "Fortuncanto",
+    "pl": "Pieśń Szczęścia",
+    "en": "Lucky Chant"
+  },
+  "descriptions": {
+    "en": "The user chants an incantation toward the sky, preventing the foe from landing critical hits.",
+    "de": "Verhindert Volltreffer des Gegners während der nächsten fünf Runden."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

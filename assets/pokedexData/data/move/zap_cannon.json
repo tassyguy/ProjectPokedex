@@ -1,0 +1,50 @@
+{
+  "index_number": 192,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 120,
+  "accuracy": 50,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Élecanon",
+    "de": "Blitzkanone",
+    "gr": "Ηλεκτρικό Πυροβόλο",
+    "it": "Falcecannone",
+    "pl": "Elektrodziało",
+    "en": "Zap Cannon"
+  },
+  "descriptions": {
+    "en": "An Electric-type attack. Inaccurate but is guaranteed to cause paralysis if it hits.",
+    "de": "Paralysiert den Gegner bei einem Treffer zu 100%. Leider sehr schlechte Trefferquote! Die Attacken Donner und Donnerblitz sind dieser Attacke vorzuziehen, da sie viel öfter treffen. Als Alternative für die Chance auf Paralyse gibt es die Attacke Donnerwelle, die zwar keinen Schaden anrichtet, aber dafür mit einer Trefferquote von 100 zu 100% paralysiert."
+  },
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Cool"
+    }
+  ]
+}

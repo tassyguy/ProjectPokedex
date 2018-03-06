@@ -1,0 +1,36 @@
+{
+  "index_number": 594,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 15,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 1,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Sheauriken",
+    "de": "Wasser-Shuriken",
+    "it": "Acqualame",
+    "en": "Water Shuriken"
+  },
+  "descriptions": {
+    "en": "The user hits the target with throwing stars two to five times in a row. This move always goes first.",
+    "de": "Wasser-Shuriken besitzt eine erhöhte Priorität und trifft zwei- bis fünfmal in einer Runde. In Generation 6 war diese Attacke physischer Natur - somit ist es die bisher einzige Attacke, die unabhängig von der Umstellung der Schadensklassen in Gen.4 ihre Schadensklasse zwischen zwei Generationen geändert hat."
+  },
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "index_number": 398,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 80,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Direct Toxik",
+    "de": "Gifthieb",
+    "gr": "Παρακέντηση Δηλητηρίου",
+    "it": "Velenpuntura",
+    "pl": "Trujące Ukłucie",
+    "en": "Poison Jab"
+  },
+  "descriptions": {
+    "en": "The foe is stabbed with a tentacle or arm steeped in poison. It may also poison the foe.*The foe is stabbed with a tentacle or arm seeped with poison. It may also poison the foe.*",
+    "de": "Schädigt den Gegner und dieser wird mit einer Wahrscheinlichkeit von 30% vergiftet. Befindet sich das Ziel hinter einem Delegator, leidet bereits unter einer primären Statusveränderung, wirkt Immunität oder gehört das Ziel dem Typen bzw. , kann es nicht vergiftet werden."
+  },
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

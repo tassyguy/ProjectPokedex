@@ -1,0 +1,50 @@
+{
+  "index_number": 390,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "all_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Pics Toxik",
+    "de": "Giftspitzen",
+    "gr": "Τοξικές Άκανθοι",
+    "it": "Fielepunte",
+    "pl": "Toksyczne Kolce",
+    "en": "Toxic Spikes"
+  },
+  "descriptions": {
+    "en": "The user lays a trap of poison spikes at the foe's feet. They poison foes that switch into battle.",
+    "de": "Legt giftige Stacheln aus; Kann zweimal ausgelegt werden. Eingewechselte Pokémon werden je nach Anzahl unterschiedlich stark vergiftet:"
+  },
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

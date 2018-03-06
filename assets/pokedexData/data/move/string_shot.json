@@ -1,0 +1,51 @@
+{
+  "index_number": 81,
+  "pp": 40,
+  "max_pp": 64,
+  "power": 0,
+  "accuracy": 95,
+  "category": "status",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Trådskud",
+    "fr": "Sécrétion",
+    "de": "Fadenschuss",
+    "gr": "Νηματική Έκκριση",
+    "it": "Millebave",
+    "pl": "Strzał Siecią (DP070)Pajęcza Nić",
+    "en": "String Shot"
+  },
+  "descriptions": {
+    "en": "Strings are sprayed out and wrapped around the target to reduces its Speed.",
+    "de": "Senkt die Initiative des Gegners um zwei Stufen (50%) seit der sechsten Generation. Davor wurde die Initiative nur um eine Stufe gesenkt."
+  },
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
+}

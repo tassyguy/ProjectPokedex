@@ -1,0 +1,52 @@
+{
+  "index_number": 163,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 70,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 1,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Hug",
+    "fr": "Tranche",
+    "de": "Schlitzer",
+    "gr": "Σκίσιμο",
+    "it": "Lacerazione",
+    "pl": "Siekanie",
+    "tr": "Yırtma",
+    "en": "Slash"
+  },
+  "descriptions": {
+    "en": "A Normal-type attack. It has a high probability of a critical hit for inflicting double the damage.",
+    "de": "Richtet Schaden an, erhöhte Chance auf kritsischen Treffer."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

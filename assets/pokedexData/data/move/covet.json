@@ -1,0 +1,49 @@
+{
+  "index_number": 343,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 60,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Implore",
+    "de": "Bezirzer",
+    "gr": "Πλεονεξία",
+    "it": "Supplica",
+    "en": "Covet"
+  },
+  "descriptions": {
+    "en": "Cutely begs to obtain an item held by the foe.",
+    "de": "Schädigt den Gegner, stiehlt von Pokémon getragene Items. Trägt der Anwender der Attacke ein Item, richtet die Attacke Schaden an, ohne das gegnerische Item zu bekommen. Grundsätzlich können keine Briefe oder der Platinum-Orb dem Ziel abgenommen werden. Fähigkeiten wie Wertehalter oder Variabilität, als auch beim Auslösen des Effektes eines getragenen Items verhindern, dass der Anwender das Item des Zieles erhält."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

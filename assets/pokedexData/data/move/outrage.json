@@ -1,0 +1,50 @@
+{
+  "index_number": 200,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 120,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target_foe",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Colère",
+    "de": "Wutanfall",
+    "gr": "Παροργισμός",
+    "it": "Oltraggio",
+    "pl": "Oburzenie",
+    "en": "Outrage"
+  },
+  "descriptions": {
+    "en": "An attack that lasts two to three turns. Afterwards, the attacker will become confused.",
+    "de": "Greift den Gegner 2-3 Runden lang an und verwirrt sich danach selbst. Der Anwender kann während dieser Zeit nicht ausgewechselt werden oder eine andere Attacke auswählen. Die Attacke bricht ab, wenn der Anwender aus irgendeinem Grund (Paralyse, Verwirrung oder Immunität des Gegners) nicht angreift."
+  },
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 6,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

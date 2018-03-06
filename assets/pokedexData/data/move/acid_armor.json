@@ -1,0 +1,51 @@
+{
+  "index_number": 151,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Syrepanser",
+    "fr": "Acidarmure",
+    "de": "Säurepanzer",
+    "gr": "Οξυπανοπλία",
+    "it": "Scudo Acido",
+    "pl": "Kwasozbroja",
+    "en": "Acid Armor"
+  },
+  "descriptions": {
+    "en": "Melts the user's body for protection. A move that sharply raises Defense.",
+    "de": "Steigert die eigene physische Defensive um zwei Stufen. Vor der 6. Generation besaß die Attacke 40 AP. Eine Stufe entspricht einer Steigung von 50% des Ausgangswertes. Insgesamt kann ein Wert eines Pokémon um 400% gesteigert werden. Entspricht der Verteidigungswert des Pokémon bereits 300% des Ausgangswertes (die Attacke wurde 3 mal eingesetzt, ohne dass das gegnerische Pokémon den Verteidigungs-Wert wieder herabsetzt), so schlägt die Attacke bei weiterer Verwendung immer fehl."
+  },
+  "type": "Poison",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "index_number": 116,
+  "pp": 30,
+  "max_pp": 48,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Energifokus",
+    "fr": "Puissance",
+    "de": "Energiefokus",
+    "gr": "Εστίαση Δύναμης",
+    "it": "Focalenergia",
+    "pl": "Skupienie Energii",
+    "en": "Focus Energy"
+  },
+  "descriptions": {
+    "en": "Raises the likelihood of nailing the opponent's weak spot for a critical hit.",
+    "de": "Erhöht die Chance auf einen Volltreffer um zwei Stufen. Um mehr als 2 Stufen kann man die Volltrefferchance mit Energiefokus nicht steigern. Bei Austausch geht dieser Bonus wieder verloren."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

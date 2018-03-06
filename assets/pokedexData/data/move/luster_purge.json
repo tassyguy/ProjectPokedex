@@ -1,0 +1,50 @@
+{
+  "index_number": 295,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 70,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Lumi-Éclat",
+    "de": "Scheinwerfer",
+    "gr": "Λαμπερή Εξάγνιση",
+    "it": "Abbagliante",
+    "pl": "Czystka",
+    "en": "Luster Purge"
+  },
+  "descriptions": {
+    "en": "Attacks with a burst of light. May lower Sp. Def.",
+    "de": "Schädigt den Gegner und senkt dessen Spezialverteidigung mit einer Wahrscheinlichkeit von 50%."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Clever"
+    }
+  ]
+}

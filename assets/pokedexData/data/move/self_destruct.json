@@ -1,0 +1,51 @@
+{
+  "index_number": 120,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 200,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Selvdestruktion",
+    "fr": "Destruction",
+    "de": "Finale",
+    "gr": "Αυτοκαταστροφή",
+    "it": "Autodistruz.",
+    "pl": "Samo-Zniszczenie",
+    "en": "Self-Destruct"
+  },
+  "descriptions": {
+    "en": "The user explodes, inflicting damage on the enemy, then faints. Useless against Ghost-type.",
+    "de": "Gegner erleidet hohen Schaden, eigenes Pokémon wird besiegt. Verteidigung des Gegners wird während der Attacke halbiert. In der ersten Generation betrug der Basisschaden noch 130.Da Explosion mehr Schaden anrichtet, ist Explosion eher zu empfehlen, sofern das Pokémon diese Attacke erlernen kann. Trägt der Anwender einen Fokusgurt oder verfügt über die Fähigkeit Robustheit bewahrt ihn das nicht davor besiegt zu werden. Befindet sich ein Pokémon mit der Fähigkeit Feuchtigkeit auf dem Feld, schlägt die Attacke fehl. In der zweiten Generation wurde die Stärke der Attacke auf 200 erhöht. Seit der fünften Generation wird die Defensive des Zieles nicht mehr halbiert und der Anwender wird vor der Schadensberechnung besiegt."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

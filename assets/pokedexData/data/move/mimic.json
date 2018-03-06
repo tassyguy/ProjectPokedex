@@ -1,0 +1,51 @@
+{
+  "index_number": 102,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "cz": "Nápodoba",
+    "fr": "Copie",
+    "de": "Mimikry",
+    "gr": "Μίμιση",
+    "it": "Mimica",
+    "pl": "Naśladowanie",
+    "en": "Mimic"
+  },
+  "descriptions": {
+    "en": "A move for learning one of the opponent's moves, for use during that battle only.",
+    "de": "Lässt jene gegnerische Attacke für einen Kampf erlernen, die zuletzt vom Gegner eingestzt wurde; ab diesen Zeitpunkt kann sie im Kampf eingesetzt werden.Hinweis: TM 31 in Rot/Blau/Gelb, wird benötigt um den \"Shiny Ditto\" Cheat ausführen zu können. Der Cheat ist auf unserer GSK Cheatseite zu finden."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

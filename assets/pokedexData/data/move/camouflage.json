@@ -1,0 +1,49 @@
+{
+  "index_number": 293,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Camouflage",
+    "de": "Tarnung",
+    "gr": "Παραλλαγή",
+    "it": "Camuffamento",
+    "en": "Camouflage"
+  },
+  "descriptions": {
+    "en": "",
+    "de": "Lässt das Pokémon den Typ der vom Gegner zuletzt eingesetzten Attacke übernehmen. Hat dieser keine Attacke eingesetzt, so wird der Typ auf Normal gesetzt."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

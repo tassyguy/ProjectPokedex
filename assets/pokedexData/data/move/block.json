@@ -1,0 +1,49 @@
+{
+  "index_number": 335,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Barrage",
+    "de": "Rückentzug",
+    "gr": "Φραγμός",
+    "it": "Blocco",
+    "en": "Block"
+  },
+  "descriptions": {
+    "en": "Blocks the foe’s way to prevent escape.",
+    "de": "Verhindert die Flucht eines Gegners, ähnlich wie Spinnennetz und Horrorblick. Hauptsächlich durch Zucht mit Nasgnet (RS#60) erlernbar."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

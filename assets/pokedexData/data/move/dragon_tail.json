@@ -1,0 +1,38 @@
+{
+  "index_number": 525,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 60,
+  "accuracy": 90,
+  "category": "physical",
+  "priority": -6,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Draco-Queue",
+    "de": "Drachenrute",
+    "gr": "Δρακοουρά",
+    "it": "Codadrago",
+    "pl": "Ogon smoka",
+    "en": "Dragon Tail"
+  },
+  "descriptions": {
+    "en": "The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends.",
+    "de": "Verursacht Schaden. In einem Trainerkampf wird das Ziel ausgewechselt, sofern der Trainer noch ein anderes kampffähiges Pokémon besitzt. Beendet Kämpfe gegen wilde Pokémon, sofern das Level des Anwenders über dem des Zieles liegt."
+  },
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

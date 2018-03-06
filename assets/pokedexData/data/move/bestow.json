@@ -1,0 +1,36 @@
+{
+  "index_number": 516,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Passe-Cadeau",
+    "de": "Offerte",
+    "it": "Cediregalo",
+    "en": "Bestow"
+  },
+  "descriptions": {
+    "en": "The user passes its held item to the target when the target isn't holding an item.",
+    "de": "Der Anwender gibt dem Ziel das von ihm getragene Item. Die Attacke schlägt immer fehl, wenn der Anwender einen Brief, einen Megastein oder kein Item trägt. Führt das Ziel bereits ein Item mit sich oder befindet es sich hinter einem Delegator, schlägt Offerte ebenfalls fehl."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

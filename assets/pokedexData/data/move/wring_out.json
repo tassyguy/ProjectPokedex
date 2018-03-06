@@ -1,0 +1,49 @@
+{
+  "index_number": 378,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 0,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Essorage",
+    "de": "Auswringen",
+    "gr": "Στυπτηρία",
+    "it": "Strizzata",
+    "en": "Wring Out"
+  },
+  "descriptions": {
+    "en": "The user powerfully wrings the foe. The more HP the foe has, the greater this attack’s power.",
+    "de": "Der Schaden hängt von den KP des Gegners ab. Die Schadenspunkte der Attacke berechnen sich nach der folgenden Formel: 110 * (aktuelle KP-Zahl : volle KP-Zahl). Daraus ergibt sich, dass die Stärke von Auswringen zwischen 1 und 110 SP liegt."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Tough"
+    }
+  ]
+}

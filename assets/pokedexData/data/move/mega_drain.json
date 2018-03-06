@@ -1,0 +1,50 @@
+{
+  "index_number": 72,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 40,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Mega-Sangsue",
+    "de": "Megasauger",
+    "gr": "Απομίζηση",
+    "it": "Megassorbimento",
+    "pl": "Mega Odpływ",
+    "en": "Mega Drain"
+  },
+  "descriptions": {
+    "en": "A Grass-type attack. It adds half the HP it drained from the target to the attacker's HP.",
+    "de": "Gibt entsprechend des beim Gegner verursachten Schadens KP zurück, die Attacke Gigasauger ist besser."
+  },
+  "type": "Grass",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
+}

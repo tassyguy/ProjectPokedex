@@ -1,0 +1,49 @@
+{
+  "index_number": 455,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Appel Défense",
+    "de": "Blockbefehl",
+    "gr": "Προσταγή Άμυνας",
+    "it": "Comandoscudo",
+    "en": "Defend Order"
+  },
+  "descriptions": {
+    "en": "The user calls out its underlings to make a living shield, raising its Defense and Sp. Def stats.",
+    "de": "Der Verteidigungswert, sowie der Spezial-Verteidigungswert steigen um eine Stufe (50%)."
+  },
+  "type": "Bug",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

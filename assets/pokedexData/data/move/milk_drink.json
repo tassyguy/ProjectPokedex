@@ -1,0 +1,49 @@
+{
+  "index_number": 208,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Lait à Boire",
+    "de": "Milchgetränk",
+    "gr": "Γάλα Αγελάδος",
+    "it": "Buonlatte",
+    "en": "Milk Drink"
+  },
+  "descriptions": {
+    "en": "A move that restores HP by half of the user's max HP. This move may also be used in the field.",
+    "de": "Heilt 50% der KP des Anwenders. Ermöglicht Heilung der Team-Pokemon außerhalb des Kampfes: nimmt 1/5 der KP weg und gibt sie einem anderen Pokemon, ähnlich wie bei Weichei. Attacken mit ähnlicher Wirkung sind: Heilbefehl, Genesung, Ruheort, Tagedieb, Synthese, Morgengrauen, Mondschein, Wunschtraum und Weichei."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

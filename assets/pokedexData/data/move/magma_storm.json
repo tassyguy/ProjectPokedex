@@ -1,0 +1,49 @@
+{
+  "index_number": 463,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 100,
+  "accuracy": 75,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Vortex Magma",
+    "de": "Lavasturm",
+    "gr": "Καταιγίδα Μάγματος",
+    "it": "Magmaclisma",
+    "en": "Magma Storm"
+  },
+  "descriptions": {
+    "en": "The foe becomes trapped within a maelstrom of fire that rages for two to five turns.",
+    "de": "Verursacht Schaden und der Gegner erleidet in den nächsten 2-5 Runden einen Schaden in Höhe von 1/16 seiner maximalen Kraftpunkte. Das Ziel kann nicht ausgewechselt werden, kann sich allerdings mittels Turbodreher befreien. Wird eine Wechselhülle getrage,n ist es möglich, sein Pokémon, welches im Lavasturm gefangen ist, auszutauschen."
+  },
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

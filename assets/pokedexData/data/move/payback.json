@@ -1,0 +1,49 @@
+{
+  "index_number": 371,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 50,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Représailles",
+    "de": "Gegenstoß",
+    "gr": "Αντίποινα",
+    "it": "Rivincita",
+    "en": "Payback"
+  },
+  "descriptions": {
+    "en": "If the user can use this attack after the foe attacks, its power is doubled.*The user stores power, then attacks. If the user can use this attack after the foe, its power is doubled.*",
+    "de": "Schaden verdoppelt sich, wenn der Anwender nach dem Ziel handelt. Hierbei ist es egal, ob der Anwender attackiert, das Ziel ausgewechselt oder der Gegner ein Item angewendet hat. Seit der 5. Generation wird die Stärke von Gegenstoß nicht mehr nach einem Auswechseln des Zieles verdoppelt."
+  },
+  "type": "Dark",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Tough"
+    }
+  ]
+}

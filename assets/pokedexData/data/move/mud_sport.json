@@ -1,0 +1,50 @@
+{
+  "index_number": 300,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "everyone",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Lance-Boue",
+    "de": "Lehmsuhler",
+    "gr": "Λάσπωμα",
+    "it": "Fangata",
+    "pl": "Błotniste Ostrze",
+    "en": "Mud Sport"
+  },
+  "descriptions": {
+    "en": "Covers the user in mud to raise electrical resistance.",
+    "de": "Lässt den Schaden von allen Elektro-Attacken sinken. Bis zur 4. Generation verringerte sich die Stärke der Elektro-Attacken um 50% und ab der 5. Generation um 67%."
+  },
+  "type": "Ground",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "index_number": 145,
+  "pp": 30,
+  "max_pp": 48,
+  "power": 40,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "all_adjacent_foes",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "BobleBobbelangreb",
+    "fr": "Écume",
+    "de": "Blubber",
+    "gr": "Φυσαλλίδα",
+    "it": "Bolla",
+    "pl": "Bąbelek",
+    "en": "Bubble"
+  },
+  "descriptions": {
+    "en": "A Water-type attack. Has a one-in-three chance of reducing the target's Speed.",
+    "de": "Verletzt den Gegner, 10% Chance und senkt dessen Initiative um eine Stufe (auf ca. 66,7% des Ausgangswertes). Im Doppelkampf werden beide Gegner von der Attacke getroffen. In Dreierkämpfen werden nur die direkt gegenüberstehenden Gegner getroffen. Diese Attacke richtet nicht viel Schaden an und ist deshalb nicht zu empfehlen, auch wenn in der 6. Generation die Stärke von 20 auf 40 angehoben wurde."
+  },
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 2,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

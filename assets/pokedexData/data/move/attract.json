@@ -1,0 +1,50 @@
+{
+  "index_number": 213,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 100,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Attraction",
+    "de": "Anziehung",
+    "gr": "Προσέλκυση",
+    "it": "Attrazione",
+    "pl": "Przyciąganie",
+    "en": "Attract"
+  },
+  "descriptions": {
+    "en": "Infatuates targets, making it hard for them to attack foes of the opposite gender.",
+    "de": "Ist der Gegner vom anderen Geschlecht, wird er zu einer Warscheinlichkeit von 50% am Angreifen gehindert. Diese Attacke funktioniert nicht bei geschlechtslosen Pokémon. Hält das Ziel einen Fatumknoten, verliebt sich auch der Anwender. Auch Pokémon hinter einem Delegator werden getroffen. Wird eines der Pokémon ausgetauscht, gilt der Effekt von Anziehung nicht mehr!"
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

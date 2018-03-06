@@ -1,0 +1,51 @@
+{
+  "index_number": 58,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 90,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Isstråle",
+    "fr": "Laser Glace",
+    "de": "Eisstrahl",
+    "gr": "Ακτίνα Πάγου",
+    "it": "Geloraggio",
+    "pl": "Lodowy Promień",
+    "en": "Ice Beam"
+  },
+  "descriptions": {
+    "en": "An Ice-type attack. Has a one-in-ten chance of freezing the target solid.",
+    "de": "Eisstrahl zählt zu den besten und beliebtesten Attacken. Die Attacke richtet - in den Generationen 1 bis 5 - stets einen Schaden von 95 SP an, wobei sie eine Treffsicherheit von 99,6% hat. Zusätzlich besteht eine 10-prozentige Chance, dass der Gegner nach einem Angriff mit dieser Attacke einfriert."
+  },
+  "type": "Ice",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 1,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Beautiful"
+    }
+  ]
+}

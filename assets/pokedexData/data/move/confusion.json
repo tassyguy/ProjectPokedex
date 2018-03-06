@@ -1,0 +1,52 @@
+{
+  "index_number": 93,
+  "pp": 25,
+  "max_pp": 40,
+  "power": 50,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "cz": "Zmatení",
+    "dk": "Forvirring",
+    "fr": "Choc Mental",
+    "de": "Konfusion",
+    "gr": "Σύγχυση",
+    "it": "Confusione",
+    "pl": "Zamęt",
+    "en": "Confusion"
+  },
+  "descriptions": {
+    "en": "A Psychic-type attack. Has a one-in-ten chance of leaving the target confused.",
+    "de": "Schädigt den Gegner, 10% Chance diesen zusätzlich zu verwirren."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

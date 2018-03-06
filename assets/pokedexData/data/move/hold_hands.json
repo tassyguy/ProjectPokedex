@@ -1,0 +1,36 @@
+{
+  "index_number": 607,
+  "pp": 40,
+  "max_pp": 64,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "adjacent_ally",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Mains Jointes",
+    "de": "Händchenhalten",
+    "it": "Mano nella Mano",
+    "en": "Hold Hands"
+  },
+  "descriptions": {
+    "en": "The user and an ally hold hands. This makes them very happy.",
+    "de": "Im Einzelkampf schlägt die Attacke fehl. Im Doppelkampf wird eine Animation zwischen den beiden Pokémon auf deiner Seite ausgelöst. Einen strategischen Nutzen, beziehungsweise irgendwelche Auswirkungen auf den weiteren Kampf hat die Attacke nicht."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

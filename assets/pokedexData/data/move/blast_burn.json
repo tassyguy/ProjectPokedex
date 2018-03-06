@@ -1,0 +1,49 @@
+{
+  "index_number": 307,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 150,
+  "accuracy": 90,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Rafale Feu",
+    "de": "Lohekanonade",
+    "gr": "Πυρκαγιά",
+    "it": "Incendio",
+    "en": "Blast Burn"
+  },
+  "descriptions": {
+    "en": "Powerful, but leaves the user immobile the next turn.",
+    "de": "Richtet enormen Schaden an, bei Erfolg muss das eigene Pokémon jedoch in der folgenden Kampfrunde pausieren. Kann nur von vollentwickelten Feuer-Startern erlernt werden."
+  },
+  "type": "Fire",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 4,
+      "condition": "Beautiful"
+    }
+  ]
+}

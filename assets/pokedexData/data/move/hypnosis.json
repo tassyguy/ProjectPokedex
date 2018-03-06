@@ -1,0 +1,51 @@
+{
+  "index_number": 95,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 60,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Hypnose",
+    "fr": "Hypnose",
+    "de": "Hypnose",
+    "gr": "Ύπνωση",
+    "it": "Ipnosi",
+    "pl": "Hipnoza",
+    "en": "Hypnosis"
+  },
+  "descriptions": {
+    "en": "A special Psychic-type move. The target is hypnotized into a deep sleep.",
+    "de": "Lässt den Gegner einschlafen."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Clever"
+    }
+  ]
+}

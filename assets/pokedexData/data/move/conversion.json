@@ -1,0 +1,50 @@
+{
+  "index_number": 160,
+  "pp": 30,
+  "max_pp": 48,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Konvertering",
+    "fr": "Conversion",
+    "de": "Umwandlung",
+    "gr": "Μετατροπή",
+    "it": "Conversione",
+    "en": "Conversion"
+  },
+  "descriptions": {
+    "en": "A special move that switches the user's elemental type to that of the target.",
+    "de": "Ändert den eigenen Pokémon Typ in einen seiner Attacken."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

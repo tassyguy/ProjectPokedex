@@ -1,0 +1,49 @@
+{
+  "index_number": 346,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "everyone",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Tourniquet",
+    "de": "Nassmacher",
+    "gr": "Ύγρανση",
+    "it": "Docciascudo",
+    "en": "Water Sport"
+  },
+  "descriptions": {
+    "en": "The user becomes soaked to raise resistance to fire.",
+    "de": "Lässt den Schaden von allen Feuer-Attacken sinken. Bis zur 4. Generation verringerte sich die Stärke der Feuer-Attacken um 50% und ab der 5. Generation um 67%. Eine weitaus bessere Alternative stellt Regentanz dar."
+  },
+  "type": "Water",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "index_number": 153,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 250,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "all_adjacent",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "dk": "Eksplosion",
+    "fr": "Explosion",
+    "de": "Explosion",
+    "gr": "Έκρηξη",
+    "it": "Esplosione",
+    "pl": "Eksplozja",
+    "en": "Explosion"
+  },
+  "descriptions": {
+    "en": "The most powerful attack of all. However, the attacker faints after using this move.",
+    "de": "Gegner erleidet hohen Schaden, eigenes Pokémon wird besiegt. Die Attacke schlägt fehl, wenn ein Pokémon mit Feuchtigkeit am Kampf teilnimmt. Auch wenn die Attacke aufgrund eines Delegators, Schultzschildes, Scanners oder weil das Ziel dem Typen angehört, nicht trifft, wird der Anwender dennoch besiegt."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 8,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

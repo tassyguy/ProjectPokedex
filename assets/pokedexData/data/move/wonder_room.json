@@ -1,0 +1,49 @@
+{
+  "index_number": 472,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "everyone",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Zone Étrange",
+    "de": "Wunderraum",
+    "gr": "δωμάτιο των θαυμάτων",
+    "it": "Mirabilzona",
+    "en": "Wonder Room"
+  },
+  "descriptions": {
+    "en": "The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns.",
+    "de": "Über 5 Runden werden Verteidigung und Spezial-Verteidigung aller Pokémon auf dem Feld getauscht. Veränderungen dieser Werte sind hiervon jedoch ausgenommen. Ist die Wirkung noch aktiv und wird Wunderraum erneut eingesetzt, endet - ähnlich wie bei Bizarroraum oder Magieraum - der Effekt der Attacke sofort."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

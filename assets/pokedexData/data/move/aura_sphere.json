@@ -1,0 +1,50 @@
+{
+  "index_number": 396,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 80,
+  "accuracy": 0,
+  "category": "special",
+  "priority": 0,
+  "target": "anyone_but_user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": true,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Aurasphère",
+    "de": "Aurasphäre",
+    "gr": "Σφαίρα Αύρας",
+    "it": "Forzasfera",
+    "pl": "Kula aury",
+    "en": "Aura Sphere"
+  },
+  "descriptions": {
+    "en": "The user looses a blast of aura power from deep within its body. This move is certain to hit.",
+    "de": "Die Genauigkeit kann nicht beeinträchtigt werden und die Attacke trifft immer. Da diese Attacke in der 6. Generation eine Stärke von 80 hat, ist sie ausnahmslos zu empfehlen. (Andere Attacken, die immer treffen, besitzen nur eine Stärke von 60)."
+  },
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "index_number": 508,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Changement Vitesse",
+    "de": "Gangwechsel",
+    "it": "Cambiomarcia",
+    "en": "Shift Gear"
+  },
+  "descriptions": {
+    "en": "The user rotates its gears, raising its Attack and sharply raising its Speed.",
+    "de": "Die Spezial-Attacke von Klikk und seinen Entwicklungen steigert die Initiative um zwei Stufen (100% des Ausgangswertes) und seinen Angriff um eine Stufe (50% des Ausgangswertes)."
+  },
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

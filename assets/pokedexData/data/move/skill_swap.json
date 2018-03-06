@@ -1,0 +1,49 @@
+{
+  "index_number": 285,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Échange",
+    "de": "Wertewechsel",
+    "gr": "Ανταλλαγή Δεξιοτήτων",
+    "it": "Baratto",
+    "en": "Skill Swap"
+  },
+  "descriptions": {
+    "en": "The user swaps special abilities with the target.*Switches abilities with the foe on the turn this is used.*",
+    "de": "Die Fähigkeiten der beiden kämpfenden Pokémon werden vertauscht. Wirkungslos, wenn eines der Pokémon die Fähigkeit Wunderwache oder Variabilität hat."
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Clever"
+    }
+  ]
+}

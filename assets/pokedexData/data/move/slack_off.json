@@ -1,0 +1,49 @@
+{
+  "index_number": 303,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Paresse",
+    "de": "Tagedieb",
+    "gr": "ΤεμπέλιασμαΞεκούραση",
+    "it": "Pigro",
+    "en": "Slack Off"
+  },
+  "descriptions": {
+    "en": "Slacks off and restores half the maximum HP.",
+    "de": "Gibt dem Pokémon 50% seiner ursprünglichen KP wieder. Attacken mit ähnlicher Wirkung sind: Heilbefehl, Morgengrauen, Genesung, Ruheort, Milchgetränk, Synthese, Mondschein, Wunschtraum und Weichei."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

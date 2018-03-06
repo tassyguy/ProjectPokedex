@@ -1,0 +1,49 @@
+{
+  "index_number": 277,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 4,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Reflet Magik",
+    "de": "Magiemantel",
+    "gr": "Μαγικός Μανδύας",
+    "it": "Magivelo",
+    "en": "Magic Coat"
+  },
+  "descriptions": {
+    "en": "Reflects special effects back to the attacker.",
+    "de": "Setzt der Gegner eine Attacke ein, die den Status des Pokémon ändern soll, wird diese abgewehrt und auf den Gegner reflektiert. Dazu gehören:"
+  },
+  "type": "Psychic",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

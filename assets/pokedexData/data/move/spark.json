@@ -1,0 +1,50 @@
+{
+  "index_number": 209,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 65,
+  "accuracy": 100,
+  "category": "physical",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": true,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Étincelle",
+    "de": "Funkensprung",
+    "gr": "Σπινθήρας",
+    "it": "Scintilla",
+    "pl": "Iskra",
+    "en": "Spark"
+  },
+  "descriptions": {
+    "en": "An Electric-type attack. Has a one-in-three chance of paralyzing the target.",
+    "de": "Schädigt den Gegner, 30% Chance auf Paralyse."
+  },
+  "type": "Electric",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 4,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}

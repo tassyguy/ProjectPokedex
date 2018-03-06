@@ -1,0 +1,50 @@
+{
+  "index_number": 107,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "dk": "Minimere",
+    "fr": "Lilliput",
+    "de": "Komprimator",
+    "gr": "Σμίκρυνση",
+    "it": "Minimizzato",
+    "en": "Minimize"
+  },
+  "descriptions": {
+    "en": "Reduces the user's size and makes it harder to hit. Can normally be used up to six times.",
+    "de": "Steigert den Fluchtwert des eigenen Pokémon um eine Stufe (50%) bis einschließlich zur 4. Generation."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

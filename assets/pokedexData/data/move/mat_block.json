@@ -1,0 +1,36 @@
+{
+  "index_number": 561,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user_and_allies",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Tatamigaeshi",
+    "de": "Tatami-Schild",
+    "it": "Ribaltappeto",
+    "en": "Mat Block"
+  },
+  "descriptions": {
+    "en": "Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves.",
+    "de": "Tatami-Schild ist die Spezial-Attacke von Quajatsu und schützt alle Pokémon auf der Seite das Anwenders vor allen Attacken außer statusveränderden Attacken. Ähnlich wie Mogelhieb kann es nur im ersten Zug verwendet werden."
+  },
+  "type": "Fighting",
+  "contests": [
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 3,
+      "condition": "Cool"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "index_number": 430,
+  "pp": 10,
+  "max_pp": 16,
+  "power": 80,
+  "accuracy": 100,
+  "category": "special",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": true,
+  "names": {
+    "fr": "Luminocanon",
+    "de": "Lichtkanone",
+    "gr": "Φωτοβόλο",
+    "it": "Cannonflash",
+    "pl": "Błyskodziało",
+    "en": "Flash Cannon"
+  },
+  "descriptions": {
+    "en": "The user gathers all its light energy and releases it at once. It may also lower the foe’s Sp. Def stat.*The user gathers all its light energy and releases it in one shot. It may also lower the foe's Sp. Def stat.*",
+    "de": "Senkt mit einer Chance von 10% die spezielle Verteidigung des Gegners um eine Stufe (50%)."
+  },
+  "type": "Steel",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 2,
+      "jam": 0,
+      "condition": "Clever"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 4,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

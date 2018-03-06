@@ -1,0 +1,48 @@
+{
+  "index_number": 493,
+  "pp": 15,
+  "max_pp": 24,
+  "power": 0,
+  "accuracy": 100,
+  "category": "status",
+  "priority": 0,
+  "target": "target",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": true,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": false,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Rayon Simple",
+    "de": "Wankelstrahl",
+    "it": "Ondisinvolta",
+    "en": "Simple Beam"
+  },
+  "descriptions": {
+    "en": "The user's mysterious psychic wave changes the target's Ability to Simple.",
+    "de": "Die Fähigkeit des Zieles wird zu Wankelmut geändert. Die Attacke schlägt fehl, wenn das Ziel über Variabilität, Schnarchnase oder Taktikwechsel verfügt."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cute"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 3,
+      "jam": 0,
+      "condition": "Cute"
+    }
+  ]
+}

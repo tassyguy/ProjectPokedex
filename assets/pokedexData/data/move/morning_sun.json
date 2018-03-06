@@ -1,0 +1,50 @@
+{
+  "index_number": 234,
+  "pp": 5,
+  "max_pp": 8,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Aurore",
+    "de": "Morgengrauen",
+    "gr": "Αυγερινόφως",
+    "it": "Mattindoro",
+    "pl": "Światło Brzasku",
+    "en": "Morning Sun"
+  },
+  "descriptions": {
+    "en": "Allows HP to be restored by the morning sunlight. In battle, half the user's max HP is restored.",
+    "de": "Gibt 50% der maximalen KP zurück. Wenn in einem Kampf ein Sandsturm weht, Hagel fällt oder Regen prasselt, bewirkt diese Attacke nur die Hälfte der normalen Wirkung. Bei Sonne steigt die Heilungskraft auf 2/3 der maximalen KP."
+  },
+  "type": "Normal",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Beautiful"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Beautiful"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "index_number": 349,
+  "pp": 20,
+  "max_pp": 32,
+  "power": 0,
+  "accuracy": 0,
+  "category": "status",
+  "priority": 0,
+  "target": "user",
+  "critical_hit": 0,
+  "makes_contact": false,
+  "affected_by_protect": false,
+  "affected_by_magic_coat": false,
+  "affected_by_snatch": true,
+  "affected_by_mirror_move": false,
+  "affected_by_kings_rock": false,
+  "names": {
+    "fr": "Danse Draco",
+    "de": "Drachentanz",
+    "gr": "Χορός Δράκου",
+    "it": "Dragodanza",
+    "en": "Dragon Dance"
+  },
+  "descriptions": {
+    "en": "A mystical dance that ups Attack and Speed.",
+    "de": "Erhöht Angriff und Initiative des Pokémons um eine Stufe (50%). Wird oft auf Pokemon mit mindestens 264 Init gespielt, da diese mit +1 Init 396 erreichen, was schnell genug ist um alle Pokemon außer Ninjask und Lektrobal zu überholen."
+  },
+  "type": "Dragon",
+  "contests": [
+    {
+      "contest": "Contests",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Super Contests",
+      "appeal": 0,
+      "jam": 0,
+      "condition": "Cool"
+    },
+    {
+      "contest": "Contest Spectaculars",
+      "appeal": 1,
+      "jam": 0,
+      "condition": "Cool"
+    }
+  ]
+}
